@@ -1,0 +1,1 @@
+{'error_code': 49, 'error_algo': 'Error in Reading from Camera', 'error_time': '2021-05-27 17:57:26'}

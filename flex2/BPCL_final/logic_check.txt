@@ -1,0 +1,1838 @@
+
+xm, ym 823 540
+current_dict {0: {'xco': 841, 'yco': 543, 'state': 'moving left'}}
+prev_dict {0: {'xco': 841, 'yco': 543, 'state': 'Initialized'}}
+here ->0
+moving - > True
+ptimer 0 1 49 3
+*********** Person Timer Started ******* Time :   06:54:38.000482
+2021-05-20 06:54:38.222774
+loop start 2021-05-20 06:54:38.222812
+0
+xm, ym 889 514
+in update_counter 1
+current_dict {0: {'xco': 889, 'yco': 514, 'state': 'moving right'}}
+prev_dict {0: {'xco': 841, 'yco': 543, 'state': 'moving left'}}
+here ->1
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:38.734935
+loop start 2021-05-20 06:54:38.734950
+0
+xm, ym 824 534
+current_dict {0: {'xco': 824, 'yco': 534, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 889, 'yco': 514, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:39.385762
+loop start 2021-05-20 06:54:39.385777
+0
+xm, ym 876 518
+in update_counter 1
+current_dict {0: {'xco': 876, 'yco': 518, 'state': 'moving right'}}
+prev_dict {0: {'xco': 824, 'yco': 534, 'state': 'Initialized'}}
+here ->1
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:40.053644
+loop start 2021-05-20 06:54:40.053677
+0
+xm, ym 821 535
+current_dict {0: {'xco': 821, 'yco': 535, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 876, 'yco': 518, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:40.628365
+loop start 2021-05-20 06:54:40.628379
+0
+xm, ym 864 530
+in update_counter 1
+current_dict {0: {'xco': 864, 'yco': 530, 'state': 'moving right'}}
+prev_dict {0: {'xco': 821, 'yco': 535, 'state': 'Initialized'}}
+here ->1
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:41.275800
+loop start 2021-05-20 06:54:41.275811
+0
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:41.897943
+loop start 2021-05-20 06:54:41.897955
+0
+xm, ym 852 535
+current_dict {0: {'xco': 864, 'yco': 530, 'state': 'moving left'}}
+prev_dict {0: {'xco': 864, 'yco': 530, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:42.547311
+loop start 2021-05-20 06:54:42.547355
+0
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:43.169519
+loop start 2021-05-20 06:54:43.169533
+0
+xm, ym 859 534
+current_dict {0: {'xco': 864, 'yco': 530, 'state': 'moving left'}}
+prev_dict {0: {'xco': 864, 'yco': 530, 'state': 'moving left'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:43.832566
+loop start 2021-05-20 06:54:43.832586
+0
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:44.458309
+loop start 2021-05-20 06:54:44.458320
+0
+xm, ym 828 524
+current_dict {0: {'xco': 828, 'yco': 524, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 864, 'yco': 530, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:54:44.779591
+loop start 2021-05-20 06:54:44.779602
+0
+xm, ym 847 523
+current_dict {0: {'xco': 847, 'yco': 523, 'state': 'moving right'}}
+prev_dict {0: {'xco': 828, 'yco': 524, 'state': 'Initialized'}}
+here ->0
+moving - > False
+2021-05-20 06:54:45.090608
+loop start 2021-05-20 06:54:45.090622
+0
+xm, ym 882 516
+in update_counter 1
+current_dict {0: {'xco': 882, 'yco': 516, 'state': 'moving right'}}
+prev_dict {0: {'xco': 847, 'yco': 523, 'state': 'moving right'}}
+here ->1
+moving - > True
+************************* OFF Time -> 0 *******************
+Initial time P -> 2021-05-20 06:54:38.000470  D -> 2021-05-20 06:53:59.058468  M -> 2021-05-20 06:53:05.080259
+Initial video_Time  Pv -> 2021-05-20 06:55:06.994375  Dv -> 0  Mv -> 0
+After Off_Time time P -> 2021-05-20 06:54:38.000470  D -> 2021-05-20 06:53:59.058468  M -> 2021-05-20 06:53:05.080259
+After video_Time time Pv -> 2021-05-20 06:55:06.994375  Dv -> 0  Mv -> 0
+ptimer 1 1 0 3
+2021-05-20 06:54:45.739853
+loop start 2021-05-20 06:54:45.739886
+0
+xm, ym 822 560
+current_dict {0: {'xco': 822, 'yco': 560, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 882, 'yco': 516, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:46.428428
+loop start 2021-05-20 06:54:46.428442
+0
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:47.145881
+loop start 2021-05-20 06:54:47.145896
+0
+xm, ym 837 527
+current_dict {0: {'xco': 837, 'yco': 527, 'state': 'moving right'}}
+prev_dict {0: {'xco': 822, 'yco': 560, 'state': 'Initialized'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:47.731478
+loop start 2021-05-20 06:54:47.731490
+0
+xm, ym 886 516
+in update_counter 1
+current_dict {0: {'xco': 886, 'yco': 516, 'state': 'moving right'}}
+prev_dict {0: {'xco': 837, 'yco': 527, 'state': 'moving right'}}
+here ->1
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:48.650748
+loop start 2021-05-20 06:54:48.650758
+0
+xm, ym 890 519
+current_dict {0: {'xco': 890, 'yco': 519, 'state': 'counted'}}
+prev_dict {0: {'xco': 886, 'yco': 516, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:49.328324
+loop start 2021-05-20 06:54:49.328343
+0
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:50.271951
+loop start 2021-05-20 06:54:50.271965
+0
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:50.907574
+loop start 2021-05-20 06:54:50.907598
+0
+xm, ym 824 518
+current_dict {0: {'xco': 824, 'yco': 518, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 890, 'yco': 519, 'state': 'counted'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:51.551218
+loop start 2021-05-20 06:54:51.551233
+0
+xm, ym 857 514
+current_dict {0: {'xco': 857, 'yco': 514, 'state': 'moving right'}}
+prev_dict {0: {'xco': 824, 'yco': 518, 'state': 'Initialized'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:52.212703
+loop start 2021-05-20 06:54:52.212712
+0
+xm, ym 881 512
+in update_counter 1
+current_dict {0: {'xco': 881, 'yco': 512, 'state': 'moving right'}}
+prev_dict {0: {'xco': 857, 'yco': 514, 'state': 'moving right'}}
+here ->1
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:52.963702
+loop start 2021-05-20 06:54:52.963715
+0
+xm, ym 883 512
+current_dict {0: {'xco': 883, 'yco': 512, 'state': 'moving right'}}
+prev_dict {0: {'xco': 881, 'yco': 512, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:53.485581
+loop start 2021-05-20 06:54:53.485592
+0
+xm, ym 894 514
+current_dict {0: {'xco': 894, 'yco': 514, 'state': 'counted'}}
+prev_dict {0: {'xco': 883, 'yco': 512, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:54.463559
+loop start 2021-05-20 06:54:54.463573
+0
+xm, ym 825 545
+current_dict {0: {'xco': 825, 'yco': 545, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 894, 'yco': 514, 'state': 'counted'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:55.092739
+loop start 2021-05-20 06:54:55.092752
+0
+xm, ym 863 538
+in update_counter 1
+current_dict {0: {'xco': 863, 'yco': 538, 'state': 'moving right'}}
+prev_dict {0: {'xco': 825, 'yco': 545, 'state': 'Initialized'}}
+here ->1
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:55.759198
+loop start 2021-05-20 06:54:55.759211
+0
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:56.349775
+loop start 2021-05-20 06:54:56.349795
+0
+xm, ym 867 524
+current_dict {0: {'xco': 867, 'yco': 524, 'state': 'moving right'}}
+prev_dict {0: {'xco': 863, 'yco': 538, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:56.981460
+loop start 2021-05-20 06:54:56.981475
+0
+xm, ym 886 523
+current_dict {0: {'xco': 886, 'yco': 523, 'state': 'moving right'}}
+prev_dict {0: {'xco': 867, 'yco': 524, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:57.637947
+loop start 2021-05-20 06:54:57.637962
+0
+xm, ym 886 524
+current_dict {0: {'xco': 886, 'yco': 524, 'state': 'non moving'}}
+prev_dict {0: {'xco': 886, 'yco': 523, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:58.284829
+loop start 2021-05-20 06:54:58.284841
+0
+xm, ym 886 523
+current_dict {0: {'xco': 886, 'yco': 523, 'state': 'non moving'}}
+prev_dict {0: {'xco': 886, 'yco': 524, 'state': 'non moving'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:54:58.901035
+loop start 2021-05-20 06:54:58.901044
+0
+xm, ym 887 524
+current_dict {0: {'xco': 887, 'yco': 524, 'state': 'moving right'}}
+prev_dict {0: {'xco': 886, 'yco': 523, 'state': 'non moving'}}
+here ->0
+moving - > False
+2021-05-20 06:54:59.223236
+loop start 2021-05-20 06:54:59.223255
+0
+xm, ym 887 524
+current_dict {0: {'xco': 887, 'yco': 524, 'state': 'non moving'}}
+prev_dict {0: {'xco': 887, 'yco': 524, 'state': 'moving right'}}
+here ->0
+moving - > False
+2021-05-20 06:54:59.555148
+loop start 2021-05-20 06:54:59.555162
+0
+xm, ym 888 523
+current_dict {0: {'xco': 888, 'yco': 523, 'state': 'moving right'}}
+prev_dict {0: {'xco': 887, 'yco': 524, 'state': 'non moving'}}
+here ->0
+moving - > False
+2021-05-20 06:54:59.890222
+loop start 2021-05-20 06:54:59.890231
+0
+xm, ym 889 524
+current_dict {0: {'xco': 889, 'yco': 524, 'state': 'moving right'}}
+prev_dict {0: {'xco': 888, 'yco': 523, 'state': 'moving right'}}
+here ->0
+moving - > False
+2021-05-20 06:55:00.215691
+loop start 2021-05-20 06:55:00.215703
+0
+xm, ym 889 524
+current_dict {0: {'xco': 889, 'yco': 524, 'state': 'non moving'}}
+prev_dict {0: {'xco': 889, 'yco': 524, 'state': 'moving right'}}
+here ->0
+moving - > False
+2021-05-20 06:55:00.543159
+loop start 2021-05-20 06:55:00.543177
+0
+xm, ym 889 524
+current_dict {0: {'xco': 889, 'yco': 524, 'state': 'non moving'}}
+prev_dict {0: {'xco': 889, 'yco': 524, 'state': 'non moving'}}
+here ->0
+moving - > False
+2021-05-20 06:55:00.858051
+loop start 2021-05-20 06:55:00.858075
+0
+xm, ym 889 524
+current_dict {0: {'xco': 889, 'yco': 524, 'state': 'non moving'}}
+prev_dict {0: {'xco': 889, 'yco': 524, 'state': 'non moving'}}
+here ->0
+moving - > False
+2021-05-20 06:55:01.165430
+loop start 2021-05-20 06:55:01.165467
+0
+xm, ym 893 524
+current_dict {0: {'xco': 893, 'yco': 524, 'state': 'counted'}}
+prev_dict {0: {'xco': 889, 'yco': 524, 'state': 'non moving'}}
+here ->0
+moving - > False
+2021-05-20 06:55:01.543072
+loop start 2021-05-20 06:55:01.543091
+0
+here ->0
+moving - > False
+2021-05-20 06:55:01.865789
+loop start 2021-05-20 06:55:01.865828
+0
+xm, ym 832 535
+current_dict {0: {'xco': 832, 'yco': 535, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 893, 'yco': 524, 'state': 'counted'}}
+here ->0
+moving - > False
+2021-05-20 06:55:02.167233
+loop start 2021-05-20 06:55:02.167256
+0
+xm, ym 858 533
+current_dict {0: {'xco': 858, 'yco': 533, 'state': 'moving right'}}
+prev_dict {0: {'xco': 832, 'yco': 535, 'state': 'Initialized'}}
+here ->0
+moving - > False
+2021-05-20 06:55:02.468110
+loop start 2021-05-20 06:55:02.468130
+0
+xm, ym 883 527
+in update_counter 1
+current_dict {0: {'xco': 883, 'yco': 527, 'state': 'moving right'}}
+prev_dict {0: {'xco': 858, 'yco': 533, 'state': 'moving right'}}
+here ->1
+moving - > True
+************************* OFF Time -> 3 *******************
+Initial time P -> 2021-05-20 06:54:38.000470  D -> 2021-05-20 06:53:59.058468  M -> 2021-05-20 06:53:05.080259
+Initial video_Time  Pv -> 2021-05-20 06:55:06.994375  Dv -> 0  Mv -> 0
+After Off_Time time P -> 2021-05-20 06:54:41.000470  D -> 2021-05-20 06:54:02.058468  M -> 2021-05-20 06:53:08.080259
+After video_Time time Pv -> 2021-05-20 06:55:09.994375  Dv -> 0  Mv -> 0
+ptimer 1 1 0 3
+2021-05-20 06:55:03.098601
+loop start 2021-05-20 06:55:03.098615
+0
+xm, ym 830 518
+current_dict {0: {'xco': 830, 'yco': 518, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 883, 'yco': 527, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:55:03.732049
+loop start 2021-05-20 06:55:03.732063
+0
+xm, ym 882 514
+in update_counter 1
+current_dict {0: {'xco': 882, 'yco': 514, 'state': 'moving right'}}
+prev_dict {0: {'xco': 830, 'yco': 518, 'state': 'Initialized'}}
+here ->1
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:55:04.380393
+loop start 2021-05-20 06:55:04.380408
+0
+xm, ym 885 514
+current_dict {0: {'xco': 885, 'yco': 514, 'state': 'moving right'}}
+prev_dict {0: {'xco': 882, 'yco': 514, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:55:04.997874
+loop start 2021-05-20 06:55:04.997888
+0
+xm, ym 886 514
+current_dict {0: {'xco': 886, 'yco': 514, 'state': 'moving right'}}
+prev_dict {0: {'xco': 885, 'yco': 514, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:55:05.634915
+loop start 2021-05-20 06:55:05.634928
+0
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:55:06.274718
+loop start 2021-05-20 06:55:06.274731
+0
+xm, ym 849 531
+current_dict {0: {'xco': 849, 'yco': 531, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 886, 'yco': 514, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:55:06.940366
+loop start 2021-05-20 06:55:06.940384
+0
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:55:07.612997
+loop start 2021-05-20 06:55:07.613010
+0
+xm, ym 871 521
+in update_counter 1
+current_dict {0: {'xco': 871, 'yco': 521, 'state': 'moving right'}}
+prev_dict {0: {'xco': 849, 'yco': 531, 'state': 'Initialized'}}
+here ->1
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:55:08.289823
+loop start 2021-05-20 06:55:08.289837
+0
+xm, ym 889 521
+current_dict {0: {'xco': 889, 'yco': 521, 'state': 'moving right'}}
+prev_dict {0: {'xco': 871, 'yco': 521, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:55:08.884925
+loop start 2021-05-20 06:55:08.884945
+0
+xm, ym 889 521
+current_dict {0: {'xco': 889, 'yco': 521, 'state': 'non moving'}}
+prev_dict {0: {'xco': 889, 'yco': 521, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:55:09.512240
+loop start 2021-05-20 06:55:09.512262
+0
+xm, ym 893 520
+current_dict {0: {'xco': 893, 'yco': 520, 'state': 'counted'}}
+prev_dict {0: {'xco': 889, 'yco': 521, 'state': 'non moving'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:55:10.117109
+loop start 2021-05-20 06:55:10.117122
+0
+xm, ym 832 534
+current_dict {0: {'xco': 832, 'yco': 534, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 893, 'yco': 520, 'state': 'counted'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+2021-05-20 06:55:10.790342
+loop start 2021-05-20 06:55:10.790356
+0
+xm, ym 891 529
+current_dict {0: {'xco': 891, 'yco': 529, 'state': 'counted'}}
+prev_dict {0: {'xco': 832, 'yco': 534, 'state': 'Initialized'}}
+here ->0
+moving - > True
+ptimer 1 1 0 3
+file moved from /home/zestiot/BPCL_1/temp_video_storage/DESKTOP_BATH1_BPCL_NX2_PERSON_NOT_IN_ROI_EVENT21_ON_2021-05-20T06-54-36.avi to /home/zestiot/BPCL_1/video_storage/2021_05_20/DESKTOP_BATH1_BPCL_NX2_PERSON_NOT_IN_ROI_EVENT21_ON_2021-05-20T06-54-36.avi
+{'event_time': '2021-05-20 06:55:11', 'path': '/home/zestiot/BPCL_1/video_storage/2021_05_20/DESKTOP_BATH1_BPCL_NX2_PERSON_NOT_IN_ROI_EVENT21_ON_2021-05-20T06-54-36.avi', 'event_description': 'Person not in ROI'}
+{'message_type': 'STATUS', 'time_stamp': '2021-05-20 06:55:11', 'data': {'status': 200}}
+API success
+*********  ALERT!!! Person not in ROI  ******* Time :   06:55:11.262749
+2021-05-20 06:55:11.481894
+loop start 2021-05-20 06:55:11.481911
+0
+xm, ym 845 527
+current_dict {0: {'xco': 845, 'yco': 527, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 891, 'yco': 529, 'state': 'counted'}}
+here ->0
+moving - > False
+2021-05-20 06:55:11.792878
+loop start 2021-05-20 06:55:11.792886
+0
+xm, ym 870 524
+in update_counter 1
+current_dict {0: {'xco': 870, 'yco': 524, 'state': 'moving right'}}
+prev_dict {0: {'xco': 845, 'yco': 527, 'state': 'Initialized'}}
+here ->1
+moving - > True
+************************* OFF Time -> 0 *******************
+Initial time P -> 0  D -> 0  M -> 0
+Initial video_Time  Pv -> 0  Dv -> 0  Mv -> 0
+After Off_Time time P -> 0  D -> 0  M -> 0
+After video_Time time Pv -> 0  Dv -> 0  Mv -> 0
+ptimer 2 1 0 3
+2021-05-20 06:55:12.474617
+loop start 2021-05-20 06:55:12.474635
+0
+xm, ym 887 523
+current_dict {0: {'xco': 887, 'yco': 523, 'state': 'moving right'}}
+prev_dict {0: {'xco': 870, 'yco': 524, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+Inside Diagnostics function
+2021-05-20 06:55:13.154698
+loop start 2021-05-20 06:55:13.154719
+0
+xm, ym 888 523
+current_dict {0: {'xco': 888, 'yco': 523, 'state': 'moving right'}}
+prev_dict {0: {'xco': 887, 'yco': 523, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:13.980603
+loop start 2021-05-20 06:55:13.980628
+0
+xm, ym 891 523
+current_dict {0: {'xco': 891, 'yco': 523, 'state': 'counted'}}
+prev_dict {0: {'xco': 888, 'yco': 523, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+list index out of range
+2021-05-20 06:55:15.066191
+loop start 2021-05-20 06:55:15.066206
+{'CPU': '34C', 'Total_RAM': '', 'Used_RAM': '', 'CPU1': '7.46@4032.856', 'CPU2': '7.67@2687.946', 'CPU3': '7.88@3409.606', 'CPU4': '8.43@4038.545', 'CPU5': '8.74@4041.473', 'CPU6': '8.82@4039.704', 'CPU7': '8.65@4077.477', 'CPU8': '8.27@3884.830', 'CPU9': '8.07@3428.240', 'CPU10': '8.40@2536.104', 'CPU11': '8.29@4059.587', 'CPU12': '8.01@4041.292', 'Memory_left': '69G', 'Memory_percentage': '69%', 'Total_memory': '228G', 'TGPU': ' 55C', 'GPU': '', 'Last_Reboot': 't  05:50:12   Wednesday 19 May 2021', 'Up_Time': ' 13 hours, 5 minutes and 2 seconds', 'Last_Event': 'EVENT21_ON', 'Last_Event_Time': '2021_05_20T06-55-11', 'Error': 6, 'Error_Algo': 'Error in socket creation', 'Error_Time': '2021-05-19 17:49:54'}
+{'message_type': 'STATUS', 'time_stamp': '2021-05-20 06:55:15', 'data': {'status': 200}}
+API success
+************************************* Checking previous events *****************************
+0
+xm, ym 860 530
+current_dict {0: {'xco': 860, 'yco': 530, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 891, 'yco': 523, 'state': 'counted'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:15.593092
+loop start 2021-05-20 06:55:15.593105
+0
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:16.283363
+loop start 2021-05-20 06:55:16.283380
+0
+xm, ym 847 520
+current_dict {0: {'xco': 860, 'yco': 530, 'state': 'moving left'}}
+prev_dict {0: {'xco': 860, 'yco': 530, 'state': 'Initialized'}}
+here ->0
+moving - > False
+2021-05-20 06:55:16.584052
+loop start 2021-05-20 06:55:16.584067
+0
+xm, ym 877 521
+in update_counter 1
+current_dict {0: {'xco': 877, 'yco': 521, 'state': 'moving right'}}
+prev_dict {0: {'xco': 860, 'yco': 530, 'state': 'moving left'}}
+here ->1
+moving - > True
+************************* OFF Time -> 0 *******************
+Initial time P -> 0  D -> 0  M -> 0
+Initial video_Time  Pv -> 0  Dv -> 0  Mv -> 0
+After Off_Time time P -> 0  D -> 0  M -> 0
+After video_Time time Pv -> 0  Dv -> 0  Mv -> 0
+ptimer 2 1 0 3
+2021-05-20 06:55:17.202285
+loop start 2021-05-20 06:55:17.202300
+0
+xm, ym 885 517
+current_dict {0: {'xco': 885, 'yco': 517, 'state': 'moving right'}}
+prev_dict {0: {'xco': 877, 'yco': 521, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:17.877624
+loop start 2021-05-20 06:55:17.877670
+0
+xm, ym 886 517
+current_dict {0: {'xco': 886, 'yco': 517, 'state': 'moving right'}}
+prev_dict {0: {'xco': 885, 'yco': 517, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:18.516262
+loop start 2021-05-20 06:55:18.516274
+0
+xm, ym 894 523
+current_dict {0: {'xco': 894, 'yco': 523, 'state': 'counted'}}
+prev_dict {0: {'xco': 886, 'yco': 517, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:19.473019
+loop start 2021-05-20 06:55:19.473032
+0
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:20.121014
+loop start 2021-05-20 06:55:20.121043
+0
+xm, ym 822 532
+current_dict {0: {'xco': 822, 'yco': 532, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 894, 'yco': 523, 'state': 'counted'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:20.743251
+loop start 2021-05-20 06:55:20.743274
+0
+xm, ym 859 529
+current_dict {0: {'xco': 859, 'yco': 529, 'state': 'moving right'}}
+prev_dict {0: {'xco': 822, 'yco': 532, 'state': 'Initialized'}}
+here ->0
+moving - > False
+2021-05-20 06:55:21.055146
+loop start 2021-05-20 06:55:21.055171
+0
+xm, ym 873 527
+in update_counter 1
+current_dict {0: {'xco': 873, 'yco': 527, 'state': 'moving right'}}
+prev_dict {0: {'xco': 859, 'yco': 529, 'state': 'moving right'}}
+here ->1
+moving - > True
+************************* OFF Time -> 0 *******************
+Initial time P -> 0  D -> 0  M -> 0
+Initial video_Time  Pv -> 0  Dv -> 0  Mv -> 0
+After Off_Time time P -> 0  D -> 0  M -> 0
+After video_Time time Pv -> 0  Dv -> 0  Mv -> 0
+ptimer 2 1 0 3
+2021-05-20 06:55:21.704438
+loop start 2021-05-20 06:55:21.704453
+0
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:22.369846
+loop start 2021-05-20 06:55:22.369878
+0
+xm, ym 848 535
+current_dict {0: {'xco': 848, 'yco': 535, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 873, 'yco': 527, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:22.949112
+loop start 2021-05-20 06:55:22.949132
+0
+xm, ym 891 530
+current_dict {0: {'xco': 891, 'yco': 530, 'state': 'counted'}}
+prev_dict {0: {'xco': 848, 'yco': 535, 'state': 'Initialized'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:23.645689
+loop start 2021-05-20 06:55:23.645704
+0
+xm, ym 840 542
+current_dict {0: {'xco': 840, 'yco': 542, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 891, 'yco': 530, 'state': 'counted'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:24.386108
+loop start 2021-05-20 06:55:24.386135
+0
+xm, ym 888 533
+in update_counter 1
+current_dict {0: {'xco': 888, 'yco': 533, 'state': 'moving right'}}
+prev_dict {0: {'xco': 840, 'yco': 542, 'state': 'Initialized'}}
+here ->1
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:25.220717
+loop start 2021-05-20 06:55:25.220730
+0
+xm, ym 840 531
+current_dict {0: {'xco': 840, 'yco': 531, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 888, 'yco': 533, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:25.917548
+loop start 2021-05-20 06:55:25.917568
+0
+xm, ym 873 534
+in update_counter 1
+current_dict {0: {'xco': 873, 'yco': 534, 'state': 'moving right'}}
+prev_dict {0: {'xco': 840, 'yco': 531, 'state': 'Initialized'}}
+here ->1
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:26.554508
+loop start 2021-05-20 06:55:26.554520
+0
+xm, ym 886 532
+current_dict {0: {'xco': 886, 'yco': 532, 'state': 'moving right'}}
+prev_dict {0: {'xco': 873, 'yco': 534, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:27.517354
+loop start 2021-05-20 06:55:27.517421
+0
+xm, ym 821 521
+current_dict {0: {'xco': 821, 'yco': 521, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 886, 'yco': 532, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:28.098650
+loop start 2021-05-20 06:55:28.098886
+0
+xm, ym 869 523
+in update_counter 1
+current_dict {0: {'xco': 869, 'yco': 523, 'state': 'moving right'}}
+prev_dict {0: {'xco': 821, 'yco': 521, 'state': 'Initialized'}}
+here ->1
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:28.777917
+loop start 2021-05-20 06:55:28.777959
+0
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:29.423210
+loop start 2021-05-20 06:55:29.423291
+0
+xm, ym 860 530
+current_dict {0: {'xco': 869, 'yco': 523, 'state': 'moving left'}}
+prev_dict {0: {'xco': 869, 'yco': 523, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:30.025309
+loop start 2021-05-20 06:55:30.025323
+0
+xm, ym 880 530
+current_dict {0: {'xco': 880, 'yco': 530, 'state': 'moving right'}}
+prev_dict {0: {'xco': 869, 'yco': 523, 'state': 'moving left'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:30.703451
+loop start 2021-05-20 06:55:30.703462
+0
+xm, ym 880 530
+current_dict {0: {'xco': 880, 'yco': 530, 'state': 'non moving'}}
+prev_dict {0: {'xco': 880, 'yco': 530, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:31.338344
+loop start 2021-05-20 06:55:31.338384
+0
+xm, ym 886 532
+current_dict {0: {'xco': 886, 'yco': 532, 'state': 'moving right'}}
+prev_dict {0: {'xco': 880, 'yco': 530, 'state': 'non moving'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:32.272611
+loop start 2021-05-20 06:55:32.272626
+0
+xm, ym 896 530
+current_dict {0: {'xco': 896, 'yco': 530, 'state': 'counted'}}
+prev_dict {0: {'xco': 886, 'yco': 532, 'state': 'moving right'}}
+here ->0
+moving - > False
+2021-05-20 06:55:32.576027
+loop start 2021-05-20 06:55:32.576042
+0
+here ->0
+moving - > False
+2021-05-20 06:55:32.903821
+loop start 2021-05-20 06:55:32.903837
+0
+here ->0
+moving - > False
+2021-05-20 06:55:33.212747
+loop start 2021-05-20 06:55:33.212759
+0
+here ->0
+moving - > False
+2021-05-20 06:55:33.568032
+loop start 2021-05-20 06:55:33.568045
+0
+here ->0
+moving - > False
+2021-05-20 06:55:33.890662
+loop start 2021-05-20 06:55:33.890758
+0
+here ->0
+moving - > False
+2021-05-20 06:55:34.268951
+loop start 2021-05-20 06:55:34.268970
+0
+xm, ym 829 522
+current_dict {0: {'xco': 829, 'yco': 522, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 896, 'yco': 530, 'state': 'counted'}}
+here ->0
+moving - > False
+2021-05-20 06:55:34.577448
+loop start 2021-05-20 06:55:34.577465
+0
+xm, ym 837 523
+current_dict {0: {'xco': 837, 'yco': 523, 'state': 'moving right'}}
+prev_dict {0: {'xco': 829, 'yco': 522, 'state': 'Initialized'}}
+here ->0
+moving - > False
+2021-05-20 06:55:34.917463
+loop start 2021-05-20 06:55:34.917476
+0
+xm, ym 844 523
+current_dict {0: {'xco': 844, 'yco': 523, 'state': 'moving right'}}
+prev_dict {0: {'xco': 837, 'yco': 523, 'state': 'moving right'}}
+here ->0
+moving - > False
+2021-05-20 06:55:35.280276
+loop start 2021-05-20 06:55:35.280289
+0
+xm, ym 861 523
+in update_counter 1
+current_dict {0: {'xco': 861, 'yco': 523, 'state': 'moving right'}}
+prev_dict {0: {'xco': 844, 'yco': 523, 'state': 'moving right'}}
+here ->1
+moving - > True
+************************* OFF Time -> 3 *******************
+Initial time P -> 0  D -> 0  M -> 0
+Initial video_Time  Pv -> 0  Dv -> 0  Mv -> 0
+After Off_Time time P -> 0  D -> 0  M -> 0
+After video_Time time Pv -> 0  Dv -> 0  Mv -> 0
+ptimer 2 1 0 3
+2021-05-20 06:55:35.920797
+loop start 2021-05-20 06:55:35.920831
+0
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:36.974187
+loop start 2021-05-20 06:55:36.974201
+0
+xm, ym 876 529
+current_dict {0: {'xco': 876, 'yco': 529, 'state': 'moving right'}}
+prev_dict {0: {'xco': 861, 'yco': 523, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:37.517855
+loop start 2021-05-20 06:55:37.517868
+0
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:38.451432
+loop start 2021-05-20 06:55:38.451447
+0
+xm, ym 878 520
+current_dict {0: {'xco': 878, 'yco': 520, 'state': 'moving right'}}
+prev_dict {0: {'xco': 876, 'yco': 529, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:39.106198
+loop start 2021-05-20 06:55:39.106211
+0
+xm, ym 826 527
+current_dict {0: {'xco': 826, 'yco': 527, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 878, 'yco': 520, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:39.777328
+loop start 2021-05-20 06:55:39.777343
+0
+xm, ym 871 526
+in update_counter 1
+current_dict {0: {'xco': 871, 'yco': 526, 'state': 'moving right'}}
+prev_dict {0: {'xco': 826, 'yco': 527, 'state': 'Initialized'}}
+here ->1
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:40.377939
+loop start 2021-05-20 06:55:40.377957
+0
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:41.046257
+loop start 2021-05-20 06:55:41.046273
+0
+xm, ym 824 525
+current_dict {0: {'xco': 824, 'yco': 525, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 871, 'yco': 526, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:42.032855
+loop start 2021-05-20 06:55:42.032889
+0
+xm, ym 872 524
+in update_counter 1
+current_dict {0: {'xco': 872, 'yco': 524, 'state': 'moving right'}}
+prev_dict {0: {'xco': 824, 'yco': 525, 'state': 'Initialized'}}
+here ->1
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:42.622521
+loop start 2021-05-20 06:55:42.622598
+0
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:43.282939
+loop start 2021-05-20 06:55:43.282954
+0
+xm, ym 836 534
+current_dict {0: {'xco': 836, 'yco': 534, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 872, 'yco': 524, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:43.939409
+loop start 2021-05-20 06:55:43.939426
+0
+xm, ym 842 528
+current_dict {0: {'xco': 842, 'yco': 528, 'state': 'moving right'}}
+prev_dict {0: {'xco': 836, 'yco': 534, 'state': 'Initialized'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:44.587390
+loop start 2021-05-20 06:55:44.587405
+0
+xm, ym 888 527
+in update_counter 1
+current_dict {0: {'xco': 888, 'yco': 527, 'state': 'moving right'}}
+prev_dict {0: {'xco': 842, 'yco': 528, 'state': 'moving right'}}
+here ->1
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:45.330244
+loop start 2021-05-20 06:55:45.330280
+0
+xm, ym 823 539
+current_dict {0: {'xco': 823, 'yco': 539, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 888, 'yco': 527, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:45.893660
+loop start 2021-05-20 06:55:45.893719
+0
+xm, ym 846 529
+current_dict {0: {'xco': 846, 'yco': 529, 'state': 'moving right'}}
+prev_dict {0: {'xco': 823, 'yco': 539, 'state': 'Initialized'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:46.510817
+loop start 2021-05-20 06:55:46.510836
+0
+xm, ym 870 535
+in update_counter 1
+current_dict {0: {'xco': 870, 'yco': 535, 'state': 'moving right'}}
+prev_dict {0: {'xco': 846, 'yco': 529, 'state': 'moving right'}}
+here ->1
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:47.183820
+loop start 2021-05-20 06:55:47.183837
+0
+xm, ym 880 538
+current_dict {0: {'xco': 880, 'yco': 538, 'state': 'moving right'}}
+prev_dict {0: {'xco': 870, 'yco': 535, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:47.805736
+loop start 2021-05-20 06:55:47.805753
+0
+xm, ym 888 535
+current_dict {0: {'xco': 888, 'yco': 535, 'state': 'moving right'}}
+prev_dict {0: {'xco': 880, 'yco': 538, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:48.457505
+loop start 2021-05-20 06:55:48.457524
+0
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:49.075244
+loop start 2021-05-20 06:55:49.075254
+0
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:49.712170
+loop start 2021-05-20 06:55:49.712186
+0
+here ->0
+moving - > True
+ptimer 2 1 0 3
+2021-05-20 06:55:50.315641
+loop start 2021-05-20 06:55:50.315656
+0
+here ->0
+moving - > False
+2021-05-20 06:55:50.649370
+loop start 2021-05-20 06:55:50.649382
+0
+here ->0
+moving - > False
+2021-05-20 06:55:51.009780
+loop start 2021-05-20 06:55:51.009803
+0
+here ->0
+moving - > False
+2021-05-20 06:55:51.341733
+loop start 2021-05-20 06:55:51.341754
+0
+here ->0
+moving - > False
+2021-05-20 06:55:51.678139
+loop start 2021-05-20 06:55:51.678158
+0
+here ->0
+moving - > False
+2021-05-20 06:55:52.085947
+loop start 2021-05-20 06:55:52.085963
+0
+here ->0
+moving - > False
+2021-05-20 06:55:52.473157
+loop start 2021-05-20 06:55:52.473178
+0
+here ->0
+moving - > False
+2021-05-20 06:55:52.816283
+loop start 2021-05-20 06:55:52.816299
+0
+here ->0
+moving - > False
+2021-05-20 06:55:53.182100
+loop start 2021-05-20 06:55:53.182115
+0
+xm, ym 820 532
+current_dict {0: {'xco': 820, 'yco': 532, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 888, 'yco': 535, 'state': 'moving right'}}
+here ->0
+moving - > False
+2021-05-20 06:55:53.517157
+loop start 2021-05-20 06:55:53.517176
+0
+xm, ym 823 532
+current_dict {0: {'xco': 823, 'yco': 532, 'state': 'moving right'}}
+prev_dict {0: {'xco': 820, 'yco': 532, 'state': 'Initialized'}}
+here ->0
+moving - > False
+2021-05-20 06:55:53.851070
+loop start 2021-05-20 06:55:53.851086
+0
+xm, ym 822 532
+current_dict {0: {'xco': 823, 'yco': 532, 'state': 'moving left'}}
+prev_dict {0: {'xco': 823, 'yco': 532, 'state': 'moving right'}}
+here ->0
+moving - > False
+2021-05-20 06:55:54.174008
+loop start 2021-05-20 06:55:54.174026
+0
+xm, ym 821 531
+current_dict {0: {'xco': 823, 'yco': 532, 'state': 'moving left'}}
+prev_dict {0: {'xco': 823, 'yco': 532, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:55:54.533428
+loop start 2021-05-20 06:55:54.533456
+0
+xm, ym 822 531
+current_dict {0: {'xco': 823, 'yco': 532, 'state': 'moving left'}}
+prev_dict {0: {'xco': 823, 'yco': 532, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:55:54.849671
+loop start 2021-05-20 06:55:54.849683
+0
+xm, ym 821 531
+current_dict {0: {'xco': 823, 'yco': 532, 'state': 'moving left'}}
+prev_dict {0: {'xco': 823, 'yco': 532, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:55:55.156290
+loop start 2021-05-20 06:55:55.156303
+0
+xm, ym 822 530
+current_dict {0: {'xco': 823, 'yco': 532, 'state': 'moving left'}}
+prev_dict {0: {'xco': 823, 'yco': 532, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:55:55.467173
+loop start 2021-05-20 06:55:55.467187
+0
+xm, ym 823 529
+current_dict {0: {'xco': 823, 'yco': 529, 'state': 'non moving'}}
+prev_dict {0: {'xco': 823, 'yco': 532, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:55:55.839965
+loop start 2021-05-20 06:55:55.839979
+0
+xm, ym 824 530
+current_dict {0: {'xco': 824, 'yco': 530, 'state': 'moving right'}}
+prev_dict {0: {'xco': 823, 'yco': 529, 'state': 'non moving'}}
+here ->0
+moving - > False
+2021-05-20 06:55:56.364096
+loop start 2021-05-20 06:55:56.364111
+0
+xm, ym 823 530
+current_dict {0: {'xco': 824, 'yco': 530, 'state': 'moving left'}}
+prev_dict {0: {'xco': 824, 'yco': 530, 'state': 'moving right'}}
+here ->0
+moving - > False
+2021-05-20 06:55:56.714408
+loop start 2021-05-20 06:55:56.714538
+0
+xm, ym 823 531
+current_dict {0: {'xco': 824, 'yco': 530, 'state': 'moving left'}}
+prev_dict {0: {'xco': 824, 'yco': 530, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:55:57.046222
+loop start 2021-05-20 06:55:57.046236
+0
+xm, ym 823 531
+current_dict {0: {'xco': 824, 'yco': 530, 'state': 'moving left'}}
+prev_dict {0: {'xco': 824, 'yco': 530, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:55:57.346784
+loop start 2021-05-20 06:55:57.346796
+0
+xm, ym 823 531
+current_dict {0: {'xco': 824, 'yco': 530, 'state': 'moving left'}}
+prev_dict {0: {'xco': 824, 'yco': 530, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:55:57.661564
+loop start 2021-05-20 06:55:57.661577
+0
+xm, ym 823 530
+current_dict {0: {'xco': 824, 'yco': 530, 'state': 'moving left'}}
+prev_dict {0: {'xco': 824, 'yco': 530, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:55:57.966195
+loop start 2021-05-20 06:55:57.966213
+0
+xm, ym 823 530
+current_dict {0: {'xco': 824, 'yco': 530, 'state': 'moving left'}}
+prev_dict {0: {'xco': 824, 'yco': 530, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:55:58.266218
+loop start 2021-05-20 06:55:58.266235
+0
+xm, ym 823 530
+current_dict {0: {'xco': 824, 'yco': 530, 'state': 'moving left'}}
+prev_dict {0: {'xco': 824, 'yco': 530, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:55:58.590654
+loop start 2021-05-20 06:55:58.590671
+0
+xm, ym 826 530
+current_dict {0: {'xco': 826, 'yco': 530, 'state': 'moving right'}}
+prev_dict {0: {'xco': 824, 'yco': 530, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:55:58.922716
+loop start 2021-05-20 06:55:58.922731
+0
+xm, ym 834 531
+current_dict {0: {'xco': 834, 'yco': 531, 'state': 'moving right'}}
+prev_dict {0: {'xco': 826, 'yco': 530, 'state': 'moving right'}}
+here ->0
+moving - > False
+2021-05-20 06:55:59.272980
+loop start 2021-05-20 06:55:59.273017
+0
+xm, ym 835 530
+current_dict {0: {'xco': 835, 'yco': 530, 'state': 'moving right'}}
+prev_dict {0: {'xco': 834, 'yco': 531, 'state': 'moving right'}}
+here ->0
+moving - > False
+2021-05-20 06:55:59.584904
+loop start 2021-05-20 06:55:59.584921
+0
+xm, ym 844 530
+current_dict {0: {'xco': 844, 'yco': 530, 'state': 'moving right'}}
+prev_dict {0: {'xco': 835, 'yco': 530, 'state': 'moving right'}}
+here ->0
+moving - > False
+2021-05-20 06:55:59.918509
+loop start 2021-05-20 06:55:59.918549
+0
+xm, ym 852 532
+current_dict {0: {'xco': 852, 'yco': 532, 'state': 'moving right'}}
+prev_dict {0: {'xco': 844, 'yco': 530, 'state': 'moving right'}}
+here ->0
+moving - > False
+2021-05-20 06:56:00.248466
+loop start 2021-05-20 06:56:00.248485
+0
+xm, ym 865 533
+in update_counter 1
+current_dict {0: {'xco': 865, 'yco': 533, 'state': 'moving right'}}
+prev_dict {0: {'xco': 852, 'yco': 532, 'state': 'moving right'}}
+here ->1
+moving - > True
+************************* OFF Time -> 9 *******************
+Initial time P -> 0  D -> 0  M -> 0
+Initial video_Time  Pv -> 0  Dv -> 0  Mv -> 0
+After Off_Time time P -> 0  D -> 0  M -> 0
+After video_Time time Pv -> 0  Dv -> 0  Mv -> 0
+person pflag True 2 0 3
+*********** Direction Timer Started ***** Time :   06:56:01.690528
+2021-05-20 06:56:01.922572
+loop start 2021-05-20 06:56:01.922589
+0
+xm, ym 883 533
+current_dict {0: {'xco': 883, 'yco': 533, 'state': 'moving right'}}
+prev_dict {0: {'xco': 865, 'yco': 533, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 0 1 3
+2021-05-20 06:56:02.430293
+loop start 2021-05-20 06:56:02.430320
+0
+xm, ym 883 533
+current_dict {0: {'xco': 883, 'yco': 533, 'state': 'non moving'}}
+prev_dict {0: {'xco': 883, 'yco': 533, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:03.063170
+loop start 2021-05-20 06:56:03.063182
+0
+xm, ym 884 533
+current_dict {0: {'xco': 884, 'yco': 533, 'state': 'moving right'}}
+prev_dict {0: {'xco': 883, 'yco': 533, 'state': 'non moving'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:03.666078
+loop start 2021-05-20 06:56:03.666096
+0
+xm, ym 884 533
+current_dict {0: {'xco': 884, 'yco': 533, 'state': 'non moving'}}
+prev_dict {0: {'xco': 884, 'yco': 533, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:04.338496
+loop start 2021-05-20 06:56:04.338509
+0
+xm, ym 891 533
+current_dict {0: {'xco': 891, 'yco': 533, 'state': 'counted'}}
+prev_dict {0: {'xco': 884, 'yco': 533, 'state': 'non moving'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:05.018163
+loop start 2021-05-20 06:56:05.018190
+0
+xm, ym 839 536
+current_dict {0: {'xco': 839, 'yco': 536, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 891, 'yco': 533, 'state': 'counted'}}
+here ->0
+moving - > False
+2021-05-20 06:56:05.321269
+loop start 2021-05-20 06:56:05.321284
+0
+xm, ym 859 535
+current_dict {0: {'xco': 859, 'yco': 535, 'state': 'moving right'}}
+prev_dict {0: {'xco': 839, 'yco': 536, 'state': 'Initialized'}}
+here ->0
+moving - > False
+2021-05-20 06:56:05.625527
+loop start 2021-05-20 06:56:05.625541
+0
+xm, ym 890 541
+current_dict {0: {'xco': 890, 'yco': 541, 'state': 'counted'}}
+prev_dict {0: {'xco': 859, 'yco': 535, 'state': 'moving right'}}
+here ->0
+moving - > False
+2021-05-20 06:56:05.946552
+loop start 2021-05-20 06:56:05.946600
+0
+here ->0
+moving - > False
+2021-05-20 06:56:06.281827
+loop start 2021-05-20 06:56:06.281842
+0
+xm, ym 842 524
+current_dict {0: {'xco': 842, 'yco': 524, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 890, 'yco': 541, 'state': 'counted'}}
+here ->0
+moving - > False
+2021-05-20 06:56:06.583280
+loop start 2021-05-20 06:56:06.583291
+0
+xm, ym 876 524
+in update_counter 1
+current_dict {0: {'xco': 876, 'yco': 524, 'state': 'moving right'}}
+prev_dict {0: {'xco': 842, 'yco': 524, 'state': 'Initialized'}}
+here ->1
+moving - > True
+************************* OFF Time -> 1 *******************
+Initial time P -> 0  D -> 2021-05-20 06:56:01.690513  M -> 0
+Initial video_Time  Pv -> 0  Dv -> 2021-05-20 06:56:30.684418  Mv -> 0
+After Off_Time time P -> 0  D -> 2021-05-20 06:56:02.690513  M -> 0
+After video_Time time Pv -> 0  Dv -> 2021-05-20 06:56:31.684418  Mv -> 0
+[191, 212, 214, -1, -1]
+person pflag True 2 0 3
+2021-05-20 06:56:07.217604
+loop start 2021-05-20 06:56:07.217665
+0
+xm, ym 824 529
+current_dict {0: {'xco': 824, 'yco': 529, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 876, 'yco': 524, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 0 1 3
+2021-05-20 06:56:07.977083
+loop start 2021-05-20 06:56:07.977152
+0
+xm, ym 899 524
+current_dict {0: {'xco': 899, 'yco': 524, 'state': 'counted'}}
+prev_dict {0: {'xco': 824, 'yco': 529, 'state': 'Initialized'}}
+here ->0
+moving - > True
+ptimer 2 0 1 3
+2021-05-20 06:56:08.831918
+loop start 2021-05-20 06:56:08.831979
+0
+xm, ym 871 524
+current_dict {0: {'xco': 871, 'yco': 524, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 899, 'yco': 524, 'state': 'counted'}}
+here ->0
+moving - > True
+ptimer 2 0 1 3
+2021-05-20 06:56:09.501226
+loop start 2021-05-20 06:56:09.501242
+0
+xm, ym 821 528
+current_dict {0: {'xco': 821, 'yco': 528, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 871, 'yco': 524, 'state': 'Initialized'}}
+here ->0
+moving - > True
+ptimer 2 0 1 3
+2021-05-20 06:56:10.095974
+loop start 2021-05-20 06:56:10.095985
+0
+xm, ym 875 524
+in update_counter 1
+current_dict {0: {'xco': 875, 'yco': 524, 'state': 'moving right'}}
+prev_dict {0: {'xco': 821, 'yco': 528, 'state': 'Initialized'}}
+here ->1
+moving - > True
+[0, 1, 4, -1, -1]
+person pflag True 2 1 3
+2021-05-20 06:56:10.750160
+loop start 2021-05-20 06:56:10.750173
+0
+xm, ym 828 537
+current_dict {0: {'xco': 828, 'yco': 537, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 875, 'yco': 524, 'state': 'moving right'}}
+here ->0
+moving - > True
+[1, 0, 1, -1, -1]
+person pflag True 2 2 3
+2021-05-20 06:56:11.376661
+loop start 2021-05-20 06:56:11.376675
+0
+xm, ym 890 529
+current_dict {0: {'xco': 890, 'yco': 529, 'state': 'counted'}}
+prev_dict {0: {'xco': 828, 'yco': 537, 'state': 'Initialized'}}
+here ->0
+moving - > True
+ptimer 2 0 3 3
+2021-05-20 06:56:11.993257
+loop start 2021-05-20 06:56:11.993272
+0
+xm, ym 832 545
+current_dict {0: {'xco': 832, 'yco': 545, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 890, 'yco': 529, 'state': 'counted'}}
+here ->0
+moving - > True
+ptimer 2 0 3 3
+2021-05-20 06:56:12.620386
+loop start 2021-05-20 06:56:12.620413
+0
+here ->0
+moving - > True
+ptimer 2 0 3 3
+2021-05-20 06:56:13.256795
+loop start 2021-05-20 06:56:13.256809
+0
+xm, ym 830 537
+current_dict {0: {'xco': 832, 'yco': 545, 'state': 'moving left'}}
+prev_dict {0: {'xco': 832, 'yco': 545, 'state': 'Initialized'}}
+here ->0
+moving - > True
+ptimer 2 0 3 3
+2021-05-20 06:56:13.894017
+loop start 2021-05-20 06:56:13.894030
+0
+xm, ym 895 533
+current_dict {0: {'xco': 895, 'yco': 533, 'state': 'counted'}}
+prev_dict {0: {'xco': 832, 'yco': 545, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:56:14.194031
+loop start 2021-05-20 06:56:14.194040
+0
+here ->0
+moving - > False
+2021-05-20 06:56:14.515718
+loop start 2021-05-20 06:56:14.515727
+0
+xm, ym 841 560
+current_dict {0: {'xco': 841, 'yco': 560, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 895, 'yco': 533, 'state': 'counted'}}
+here ->0
+moving - > False
+2021-05-20 06:56:14.867481
+loop start 2021-05-20 06:56:14.867500
+0
+xm, ym 857 555
+current_dict {0: {'xco': 857, 'yco': 555, 'state': 'moving right'}}
+prev_dict {0: {'xco': 841, 'yco': 560, 'state': 'Initialized'}}
+here ->0
+moving - > False
+2021-05-20 06:56:15.174014
+loop start 2021-05-20 06:56:15.174028
+0
+here ->0
+moving - > False
+2021-05-20 06:56:15.483581
+loop start 2021-05-20 06:56:15.483596
+0
+here ->0
+moving - > False
+2021-05-20 06:56:15.786926
+loop start 2021-05-20 06:56:15.786940
+0
+xm, ym 820 518
+current_dict {0: {'xco': 820, 'yco': 518, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 857, 'yco': 555, 'state': 'moving right'}}
+here ->0
+moving - > False
+2021-05-20 06:56:16.101100
+loop start 2021-05-20 06:56:16.101113
+0
+xm, ym 843 517
+current_dict {0: {'xco': 843, 'yco': 517, 'state': 'moving right'}}
+prev_dict {0: {'xco': 820, 'yco': 518, 'state': 'Initialized'}}
+here ->0
+moving - > False
+2021-05-20 06:56:16.401114
+loop start 2021-05-20 06:56:16.401131
+0
+xm, ym 875 520
+in update_counter 1
+current_dict {0: {'xco': 875, 'yco': 520, 'state': 'moving right'}}
+prev_dict {0: {'xco': 843, 'yco': 517, 'state': 'moving right'}}
+here ->1
+moving - > True
+************************* OFF Time -> 2 *******************
+Initial time P -> 0  D -> 2021-05-20 06:56:02.690513  M -> 0
+Initial video_Time  Pv -> 0  Dv -> 2021-05-20 06:56:31.684418  Mv -> 0
+After Off_Time time P -> 0  D -> 2021-05-20 06:56:04.690513  M -> 0
+After video_Time time Pv -> 0  Dv -> 2021-05-20 06:56:33.684418  Mv -> 0
+ptimer 2 0 3 3
+2021-05-20 06:56:17.007311
+loop start 2021-05-20 06:56:17.007323
+0
+here ->0
+moving - > True
+ptimer 2 0 3 3
+2021-05-20 06:56:17.712176
+loop start 2021-05-20 06:56:17.712194
+0
+xm, ym 866 521
+current_dict {0: {'xco': 875, 'yco': 520, 'state': 'moving left'}}
+prev_dict {0: {'xco': 875, 'yco': 520, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:18.330605
+loop start 2021-05-20 06:56:18.330625
+0
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:18.957953
+loop start 2021-05-20 06:56:18.958071
+0
+xm, ym 847 528
+current_dict {0: {'xco': 847, 'yco': 528, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 875, 'yco': 520, 'state': 'moving left'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:19.589464
+loop start 2021-05-20 06:56:19.589477
+0
+xm, ym 893 530
+current_dict {0: {'xco': 893, 'yco': 530, 'state': 'counted'}}
+prev_dict {0: {'xco': 847, 'yco': 528, 'state': 'Initialized'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:20.216761
+loop start 2021-05-20 06:56:20.216774
+0
+xm, ym 845 534
+current_dict {0: {'xco': 845, 'yco': 534, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 893, 'yco': 530, 'state': 'counted'}}
+here ->0
+moving - > False
+2021-05-20 06:56:20.592217
+loop start 2021-05-20 06:56:20.592230
+0
+xm, ym 880 529
+in update_counter 1
+current_dict {0: {'xco': 880, 'yco': 529, 'state': 'moving right'}}
+prev_dict {0: {'xco': 845, 'yco': 534, 'state': 'Initialized'}}
+here ->1
+moving - > True
+************************* OFF Time -> 0 *******************
+Initial time P -> 0  D -> 2021-05-20 06:56:04.690513  M -> 0
+Initial video_Time  Pv -> 0  Dv -> 2021-05-20 06:56:33.684418  Mv -> 0
+After Off_Time time P -> 0  D -> 2021-05-20 06:56:04.690513  M -> 0
+After video_Time time Pv -> 0  Dv -> 2021-05-20 06:56:33.684418  Mv -> 0
+ptimer 2 0 0 3
+2021-05-20 06:56:21.244522
+loop start 2021-05-20 06:56:21.244538
+0
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:21.866565
+loop start 2021-05-20 06:56:21.866599
+0
+xm, ym 887 516
+current_dict {0: {'xco': 887, 'yco': 516, 'state': 'moving right'}}
+prev_dict {0: {'xco': 880, 'yco': 529, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:22.509650
+loop start 2021-05-20 06:56:22.509682
+0
+xm, ym 828 537
+current_dict {0: {'xco': 828, 'yco': 537, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 887, 'yco': 516, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:23.142494
+loop start 2021-05-20 06:56:23.142510
+0
+xm, ym 882 528
+in update_counter 1
+current_dict {0: {'xco': 882, 'yco': 528, 'state': 'moving right'}}
+prev_dict {0: {'xco': 828, 'yco': 537, 'state': 'Initialized'}}
+here ->1
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:23.763018
+loop start 2021-05-20 06:56:23.763029
+0
+xm, ym 825 541
+current_dict {0: {'xco': 825, 'yco': 541, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 882, 'yco': 528, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:24.392047
+loop start 2021-05-20 06:56:24.392062
+0
+xm, ym 872 534
+in update_counter 1
+current_dict {0: {'xco': 872, 'yco': 534, 'state': 'moving right'}}
+prev_dict {0: {'xco': 825, 'yco': 541, 'state': 'Initialized'}}
+here ->1
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:25.049970
+loop start 2021-05-20 06:56:25.049981
+0
+xm, ym 830 516
+current_dict {0: {'xco': 830, 'yco': 516, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 872, 'yco': 534, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:25.675915
+loop start 2021-05-20 06:56:25.675929
+0
+xm, ym 884 512
+in update_counter 1
+current_dict {0: {'xco': 884, 'yco': 512, 'state': 'moving right'}}
+prev_dict {0: {'xco': 830, 'yco': 516, 'state': 'Initialized'}}
+here ->1
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:26.331515
+loop start 2021-05-20 06:56:26.331531
+0
+xm, ym 831 524
+current_dict {0: {'xco': 831, 'yco': 524, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 884, 'yco': 512, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:26.974459
+loop start 2021-05-20 06:56:26.974474
+0
+xm, ym 880 527
+in update_counter 1
+current_dict {0: {'xco': 880, 'yco': 527, 'state': 'moving right'}}
+prev_dict {0: {'xco': 831, 'yco': 524, 'state': 'Initialized'}}
+here ->1
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:27.600778
+loop start 2021-05-20 06:56:27.600792
+0
+xm, ym 884 522
+current_dict {0: {'xco': 884, 'yco': 522, 'state': 'moving right'}}
+prev_dict {0: {'xco': 880, 'yco': 527, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:28.292924
+loop start 2021-05-20 06:56:28.292938
+0
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:29.184566
+loop start 2021-05-20 06:56:29.184581
+0
+xm, ym 889 527
+current_dict {0: {'xco': 889, 'yco': 527, 'state': 'moving right'}}
+prev_dict {0: {'xco': 884, 'yco': 522, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:29.802030
+loop start 2021-05-20 06:56:29.802045
+0
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:30.473001
+loop start 2021-05-20 06:56:30.473014
+0
+xm, ym 885 534
+current_dict {0: {'xco': 889, 'yco': 527, 'state': 'moving left'}}
+prev_dict {0: {'xco': 889, 'yco': 527, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:31.127542
+loop start 2021-05-20 06:56:31.127558
+0
+xm, ym 885 534
+current_dict {0: {'xco': 889, 'yco': 527, 'state': 'moving left'}}
+prev_dict {0: {'xco': 889, 'yco': 527, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:56:31.427560
+loop start 2021-05-20 06:56:31.427571
+0
+xm, ym 885 535
+current_dict {0: {'xco': 889, 'yco': 527, 'state': 'moving left'}}
+prev_dict {0: {'xco': 889, 'yco': 527, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:56:31.756938
+loop start 2021-05-20 06:56:31.756949
+0
+xm, ym 885 534
+current_dict {0: {'xco': 889, 'yco': 527, 'state': 'moving left'}}
+prev_dict {0: {'xco': 889, 'yco': 527, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:56:32.078167
+loop start 2021-05-20 06:56:32.078180
+0
+xm, ym 888 537
+current_dict {0: {'xco': 889, 'yco': 527, 'state': 'moving left'}}
+prev_dict {0: {'xco': 889, 'yco': 527, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:56:32.381283
+loop start 2021-05-20 06:56:32.381296
+0
+here ->0
+moving - > False
+2021-05-20 06:56:32.686232
+loop start 2021-05-20 06:56:32.686335
+0
+xm, ym 820 544
+current_dict {0: {'xco': 820, 'yco': 544, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 889, 'yco': 527, 'state': 'moving left'}}
+here ->0
+moving - > False
+2021-05-20 06:56:33.000536
+loop start 2021-05-20 06:56:33.000547
+0
+here ->0
+moving - > False
+2021-05-20 06:56:33.309025
+loop start 2021-05-20 06:56:33.309037
+0
+xm, ym 870 533
+in update_counter 1
+current_dict {0: {'xco': 870, 'yco': 533, 'state': 'moving right'}}
+prev_dict {0: {'xco': 820, 'yco': 544, 'state': 'Initialized'}}
+here ->1
+moving - > True
+************************* OFF Time -> 2 *******************
+Initial time P -> 0  D -> 2021-05-20 06:56:04.690513  M -> 0
+Initial video_Time  Pv -> 0  Dv -> 2021-05-20 06:56:33.684418  Mv -> 0
+After Off_Time time P -> 0  D -> 2021-05-20 06:56:06.690513  M -> 0
+After video_Time time Pv -> 0  Dv -> 2021-05-20 06:56:35.684418  Mv -> 0
+ptimer 2 0 0 3
+2021-05-20 06:56:33.983472
+loop start 2021-05-20 06:56:33.983486
+0
+xm, ym 822 521
+current_dict {0: {'xco': 822, 'yco': 521, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 870, 'yco': 533, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:34.564210
+loop start 2021-05-20 06:56:34.564226
+0
+xm, ym 858 522
+current_dict {0: {'xco': 858, 'yco': 522, 'state': 'moving right'}}
+prev_dict {0: {'xco': 822, 'yco': 521, 'state': 'Initialized'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:35.174102
+loop start 2021-05-20 06:56:35.174115
+0
+xm, ym 886 521
+in update_counter 1
+current_dict {0: {'xco': 886, 'yco': 521, 'state': 'moving right'}}
+prev_dict {0: {'xco': 858, 'yco': 522, 'state': 'moving right'}}
+here ->1
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:35.839447
+loop start 2021-05-20 06:56:35.839462
+0
+xm, ym 886 523
+current_dict {0: {'xco': 886, 'yco': 523, 'state': 'non moving'}}
+prev_dict {0: {'xco': 886, 'yco': 521, 'state': 'moving right'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:36.491336
+loop start 2021-05-20 06:56:36.491360
+0
+xm, ym 894 524
+current_dict {0: {'xco': 894, 'yco': 524, 'state': 'counted'}}
+prev_dict {0: {'xco': 886, 'yco': 523, 'state': 'non moving'}}
+here ->0
+moving - > True
+ptimer 2 0 0 3
+2021-05-20 06:56:37.116754
+loop start 2021-05-20 06:56:37.116767
+0
+xm, ym 839 539
+current_dict {0: {'xco': 839, 'yco': 539, 'state': 'Initialized'}}
+prev_dict {0: {'xco': 894, 'yco': 524, 'state': 'counted'}}
+here ->0
+moving - > True
+person pflag True 2 0 3
+file moved from /home/zestiot/BPCL_1/temp_video_storage/DESKTOP_BATH1_BPCL_NX2_PERSON_NOT_ATTENTIVE_EVENT22_ON_2021-05-20T06-56-00.avi to /home/zestiot/BPCL_1/video_storage/2021_05_20/DESKTOP_BATH1_BPCL_NX2_PERSON_NOT_ATTENTIVE_EVENT22_ON_2021-05-20T06-56-00.avi
+{'event_time': '2021-05-20 06:56:37', 'path': '/home/zestiot/BPCL_1/video_storage/2021_05_20/DESKTOP_BATH1_BPCL_NX2_PERSON_NOT_ATTENTIVE_EVENT22_ON_2021-05-20T06-56-00.avi', 'event_description': 'Person not attentive'}
+{'message_type': 'STATUS', 'time_stamp': '2021-05-20 06:56:37', 'data': {'status': 200}}
+API success
+*********  ALERT!!!   not looking in that direction ***** Time :   06:56:37.695545
+2021-05-20 06:56:37.848603

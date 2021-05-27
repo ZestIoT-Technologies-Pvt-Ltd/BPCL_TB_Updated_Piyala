@@ -1,0 +1,24 @@
+{
+	"camera1":"rtsp://172.20.69.24/ch01.264",
+	"first_check":"11:00:00",
+	"last_check":"13:20:00",
+	"Port1":8097,
+	"Port2":8096,
+	"Pi_ip":"192.168.29.22",
+	"comment":"Palert_frame is the number of False positives considered in 5 seconds for Person in ROI similarly for Dalert_frame, Malert_frame for Motion and Direction",
+	"Dalert_frame":3,
+	"Palert_frame":3,
+	"Malert_frame":3,
+	"vid_duration":20,
+	"event_file":"/home/zestiot/BPCL_2/BPCL_final/last_event.txt",
+	"error_file":"/home/zestiot/BPCL_2/BPCL_final/error_file.txt",
+	"gpu_path":"/home/zestiot/BPCL_2/video_storage/",
+	"net_file":"/home/zestiot/BPCL_2/BPCL_final/net_event.txt",
+	"temp_folder":"/home/zestiot/BPCL_2/temp_video_storage/",
+	"xy_tracker":{
+		"configPath":"/home/zestiot/BPCL_2/BPCL_final/tracker/yolov4-tiny_jalgaon.cfg",
+		"weightPath":"/home/zestiot/BPCL_2/BPCL_final/tracker/yolov4-tiny_jalgaon_final.weights",
+		"metaPath":"/home/zestiot/BPCL_2/BPCL_final/tracker/obj.data",
+		"alert_frame":20
+	}
+}
